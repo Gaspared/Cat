@@ -17,7 +17,7 @@ public class Nyan extends JFrame{
 		public Nyan() {
 			c = getContentPane();
 			
-			//transparebt
+			//transparent
 			setUndecorated(true);
 			setBackground(new Color(0,0,0,0));
 			
